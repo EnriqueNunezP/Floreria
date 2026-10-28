@@ -1,0 +1,63 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "category": "Flores",
+      "price": 15000,
+      "stocked": true,
+      "name": "Ramo de Rosas Rojas",
+      "image": "https://images.unsplash.com/photo-1582794543139-8ac9cb0f7b11?w=500&q=80",
+      "descripcion": "Elegante ramo compuesto por rosas rojas de tallo largo, ideales para expresar amor y admiración."
+    },
+    {
+      "id": "2",
+      "category": "Flores",
+      "price": 12000,
+      "stocked": true,
+      "name": "Arreglo de Girasoles",
+      "image": "https://images.unsplash.com/photo-1597848212624-a19eb35e2651?w=500&q=80",
+      "descripcion": "Brillante arreglo floral con girasoles frescos que llenan de luz y alegría cualquier ambiente."
+    },
+    {
+      "id": "3",
+      "category": "Bombones",
+      "price": 8000,
+      "stocked": true,
+      "name": "Caja de Bombones de Chocolate Belga",
+      "image": "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=500&q=80",
+      "descripcion": "Fina selección de bombones artesanales surtidos hechos con auténtico chocolate belga."
+    },
+    {
+      "id": "4",
+      "category": "Flores",
+      "price": 18000,
+      "stocked": false,
+      "name": "Bouquet de Tulipanes",
+      "image": "https://images.unsplash.com/photo-1520763185298-1b434c919102?w=500&q=80",
+      "descripcion": "Hermoso bouquet multicolor de tulipanes primaverales para ocasiones únicas."
+    },
+    {
+      "id": "5",
+      "category": "Bombones",
+      "price": 6500,
+      "stocked": true,
+      "name": "Trufas de Chocolate Artesanales",
+      "image": "https://images.unsplash.com/photo-1548907040-4baa42d10919?w=500&q=80",
+      "descripcion": "Deliciosas trufas con cubierta de cacao amargo y relleno suave."
+    }
+  ],
+  "offers": [
+    {
+      "id": "1",
+      "titulo": "2x1 en Ramos de Rosas",
+      "descuento": "50%",
+      "codigo": "ROSAS50"
+    },
+    {
+      "id": "2",
+      "titulo": "20% de Descuento en Bombones Belgas",
+      "descuento": "20%",
+      "codigo": "BOMBON20"
+    }
+  ]
+}

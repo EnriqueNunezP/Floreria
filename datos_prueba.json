@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "category": "Flores",
+      "price": 15000,
+      "stocked": true,
+      "name": "Ramo de Rosas Rojas"
+    },
+    {
+      "id": "2",
+      "category": "Flores",
+      "price": 12000,
+      "stocked": true,
+      "name": "Arreglo de Girasoles"
+    },
+    {
+      "id": "3",
+      "category": "Bombones",
+      "price": 8000,
+      "stocked": true,
+      "name": "Caja de Bombones de Chocolate Belga"
+    },
+    {
+      "id": "4",
+      "category": "Flores",
+      "price": 18000,
+      "stocked": false,
+      "name": "Bouquet de Tulipanes"
+    },
+    {
+      "id": "5",
+      "category": "Bombones",
+      "price": 6500,
+      "stocked": true,
+      "name": "Trufas de Chocolate Artesanales"
+    }
+  ],
+  "offers": [
+    {
+      "id": "1",
+      "titulo": "2x1 en Ramos de Rosas",
+      "descuento": "50%",
+      "codigo": "ROSAS50"
+    },
+    {
+      "id": "2",
+      "titulo": "20% de Descuento en Bombones Belgas",
+      "descuento": "20%",
+      "codigo": "BOMBON20"
+    }
+  ]
+}
